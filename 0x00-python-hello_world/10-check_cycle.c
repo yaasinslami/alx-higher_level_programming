@@ -8,7 +8,7 @@
  * Return: 1 if cyclical, 0 otherwise
 */
 
-int check_cycle(listsint_t *list)
+int check_cycle(listint_t *list)
 {
 
 	listint_t *slow = list, *fast = list;
