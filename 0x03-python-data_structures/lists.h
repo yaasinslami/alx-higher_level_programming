@@ -13,9 +13,7 @@
  *
  * Description: singly linked list node structure
  * for project
- */
-
-int *ptr = (int *)malloc(4240);
+*/
 typedef struct listint_s
 {
     int n;
